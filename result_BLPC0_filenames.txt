@@ -1,498 +1,2142 @@
+GJ1002-193.csv
+2 minutes ago422 kB
+GJ1002-193_directory.csv
+2 minutes ago443 B
+GJ1002-193_stats_0.csv
+2 minutes ago101 B
+GJ1245AC-318.csv
+2 minutes ago188 kB
+GJ1245AC-318_directory.csv
+2 minutes ago453 B
+GJ1245AC-318_stats_0.csv
+2 minutes ago100 B
+GJ1245B-319.csv
+2 minutes ago114 kB
+GJ1245B-319_directory.csv
+2 minutes ago450 B
+GJ1245B-319_stats_0.csv
+2 minutes ago101 B
+GJ273-151.csv
+2 minutes ago131 kB
+GJ273-151_directory.csv
+2 minutes ago444 B
+GJ273-151_stats_0.csv
+2 minutes ago100 B
+GJ273-156.csv
+2 minutes ago1.05 MB
+GJ273-156_directory.csv
+2 minutes ago444 B
+GJ273-156_stats_0.csv
+2 minutes ago102 B
+GJ380-116.csv
+2 minutes ago305 kB
+GJ380-116_directory.csv
+2 minutes ago444 B
+GJ380-116_stats_0.csv
+2 minutes ago100 B
+GJ406-93.csv
+2 minutes ago298 kB
+GJ406-93_directory.csv
+2 minutes ago444 B
+GJ406-93_stats_0.csv
+2 minutes ago99 B
+GJ411-142.csv
+2 minutes ago145 kB
+GJ411-142_directory.csv
+2 minutes ago444 B
+GJ411-142_stats_0.csv
+2 minutes ago100 B
+GJ412A-218.csv
+2 minutes ago197 kB
+GJ412A-218_directory.csv
+2 minutes ago447 B
+GJ412A-218_stats_0.csv
+2 minutes ago100 B
+GJ412A-261.csv
+2 minutes ago111 kB
+GJ412A-261_directory.csv
+2 minutes ago447 B
+GJ412A-261_stats_0.csv
+2 minutes ago101 B
+GJ412B-219.csv
+2 minutes ago148 kB
+GJ412B-219_directory.csv
+2 minutes ago447 B
+GJ412B-219_stats_0.csv
+2 minutes ago100 B
+GJ412B-262.csv
+2 minutes ago69.7 kB
+GJ412B-262_directory.csv
+2 minutes ago447 B
+GJ412B-262_stats_0.csv
+2 minutes ago101 B
+GJ447-94.csv
+2 minutes ago151 kB
+GJ447-94_directory.csv
+2 minutes ago444 B
+GJ447-94_stats_0.csv
+2 minutes ago101 B
 GJ473AB-53.csv
-7 minutes ago21.8 kB
+2 minutes ago43.6 kB
 GJ473AB-53_directory.csv
-7 minutes ago450 B
+2 minutes ago450 B
 GJ473AB-53_stats_0.csv
-7 minutes ago100 B
+2 minutes ago98 B
+GJ54.1-244.csv
+2 minutes ago276 kB
+GJ54.1-244_directory.csv
+2 minutes ago444 B
+GJ54.1-244_stats_0.csv
+2 minutes ago100 B
+GJ54.1-272.csv
+2 minutes ago73.7 kB
+GJ54.1-272_directory.csv
+2 minutes ago444 B
+GJ54.1-272_stats_0.csv
+2 minutes ago100 B
+GJ65A-245.csv
+2 minutes ago200 kB
+GJ65A-245_directory.csv
+2 minutes ago441 B
+GJ65A-245_stats_0.csv
+2 minutes ago100 B
+GJ65A-273.csv
+2 minutes ago70.2 kB
+GJ65A-273_directory.csv
+2 minutes ago441 B
+GJ65A-273_stats_0.csv
+2 minutes ago101 B
+GJ687-335.csv
+2 minutes ago215 kB
+GJ687-335_directory.csv
+2 minutes ago444 B
+GJ687-335_stats_0.csv
+2 minutes ago100 B
+GJ702A-168.csv
+2 minutes ago179 kB
+GJ702A-168_directory.csv
+2 minutes ago447 B
+GJ702A-168_stats_0.csv
+2 minutes ago100 B
+GJ702B-169.csv
+2 minutes ago107 kB
+GJ702B-169_directory.csv
+2 minutes ago447 B
+GJ702B-169_stats_0.csv
+2 minutes ago101 B
+GJ725-320.csv
+2 minutes ago65.3 kB
+GJ725-320_directory.csv
+2 minutes ago444 B
+GJ725-320_stats_0.csv
+2 minutes ago101 B
+GJ725-321.csv
+2 minutes ago55.2 kB
+GJ725-321_directory.csv
+2 minutes ago444 B
+GJ725-321_stats_0.csv
+2 minutes ago101 B
+GJ725-322.csv
+2 minutes ago60.1 kB
+GJ725-322_directory.csv
+2 minutes ago444 B
+GJ725-322_stats_0.csv
+2 minutes ago101 B
+GJ725-323.csv
+2 minutes ago79.3 kB
+GJ725-323_directory.csv
+2 minutes ago444 B
+GJ725-323_stats_0.csv
+2 minutes ago100 B
+GJ725-336.csv
+2 minutes ago53.2 kB
+GJ725-336_directory.csv
+2 minutes ago444 B
+GJ725-336_stats_0.csv
+2 minutes ago99 B
+GJ725-337.csv
+2 minutes ago46 kB
+GJ725-337_directory.csv
+2 minutes ago444 B
+GJ725-337_stats_0.csv
+2 minutes ago99 B
+GJ725-338.csv
+2 minutes ago59.9 kB
+GJ725-338_directory.csv
+2 minutes ago444 B
+GJ725-338_stats_0.csv
+2 minutes ago101 B
+GJ768-252.csv
+2 minutes ago55.2 kB
+GJ768-252_directory.csv
+2 minutes ago444 B
+GJ768-252_stats_0.csv
+2 minutes ago101 B
+GJ768-281.csv
+2 minutes ago78.9 kB
+GJ768-281_directory.csv
+2 minutes ago444 B
+GJ768-281_stats_0.csv
+2 minutes ago100 B
+GJ820B-324.csv
+2 minutes ago83.2 kB
+GJ820B-324_directory.csv
+2 minutes ago450 B
+GJ820B-324_stats_0.csv
+2 minutes ago101 B
+GJ83.1-221.csv
+2 minutes ago121 kB
+GJ83.1-221_directory.csv
+2 minutes ago447 B
+GJ83.1-221_stats_0.csv
+2 minutes ago100 B
+GJ860A-112.csv
+2 minutes ago113 kB
+GJ860A-112_directory.csv
+2 minutes ago450 B
+GJ860A-112_stats_0.csv
+2 minutes ago101 B
+GJ860B-113.csv
+2 minutes ago110 kB
+GJ860B-113_directory.csv
+2 minutes ago450 B
+GJ860B-113_stats_0.csv
+2 minutes ago101 B
+GJ866-258.csv
+2 minutes ago72.5 kB
+GJ866-258_directory.csv
+2 minutes ago447 B
+GJ866-258_stats_0.csv
+2 minutes ago101 B
+GJ866-287.csv
+2 minutes ago242 kB
+GJ866-287_directory.csv
+2 minutes ago447 B
+GJ866-287_stats_0.csv
+2 minutes ago101 B
+HIP100017-325.csv
+2 minutes ago59 kB
+HIP100017-325_directory.csv
+2 minutes ago458 B
+HIP100017-325_stats_0.csv
+2 minutes ago101 B
+HIP100064-84.csv
+2 minutes ago542 kB
+HIP100064-84_directory.csv
+2 minutes ago456 B
+HIP100064-84_stats_0.csv
+2 minutes ago99 B
+HIP100511-85.csv
+2 minutes ago81.3 kB
+HIP100511-85_directory.csv
+2 minutes ago456 B
+HIP100511-85_stats_0.csv
+2 minutes ago100 B
+HIP101027-253.csv
+2 minutes ago83 kB
+HIP101027-253_directory.csv
+2 minutes ago459 B
+HIP101027-253_stats_0.csv
+2 minutes ago101 B
+HIP101027-282.csv
+2 minutes ago63.6 kB
+HIP101027-282_directory.csv
+2 minutes ago459 B
+HIP101027-282_stats_0.csv
+2 minutes ago101 B
+HIP101955-109.csv
+2 minutes ago84.7 kB
+HIP101955-109_directory.csv
+2 minutes ago459 B
+HIP101955-109_stats_0.csv
+2 minutes ago100 B
+HIP101955-86.csv
+2 minutes ago205 kB
+HIP101955-86_directory.csv
+2 minutes ago459 B
+HIP101955-86_stats_0.csv
+2 minutes ago101 B
+HIP102040-110.csv
+2 minutes ago47.4 kB
+HIP102040-110_directory.csv
+2 minutes ago459 B
+HIP102040-110_stats_0.csv
+2 minutes ago100 B
+HIP102040-87.csv
+2 minutes ago471 kB
+HIP102040-87_directory.csv
+2 minutes ago459 B
+HIP102040-87_stats_0.csv
+2 minutes ago101 B
+HIP102226-111.csv
+2 minutes ago207 kB
+HIP102226-111_directory.csv
+2 minutes ago459 B
+HIP102226-111_stats_0.csv
+2 minutes ago100 B
+HIP102226-88.csv
+2 minutes ago163 kB
+HIP102226-88_directory.csv
+2 minutes ago459 B
+HIP102226-88_stats_0.csv
+2 minutes ago100 B
 HIP102488-14.csv
-7 minutes ago93.6 kB
+2 minutes ago189 kB
 HIP102488-14_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP102488-14_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP102531-174.csv
+2 minutes ago103 kB
+HIP102531-174_directory.csv
+2 minutes ago459 B
+HIP102531-174_stats_0.csv
+2 minutes ago101 B
+HIP102532-175.csv
+2 minutes ago100 kB
+HIP102532-175_directory.csv
+2 minutes ago459 B
+HIP102532-175_stats_0.csv
+2 minutes ago101 B
+HIP102766-176.csv
+2 minutes ago216 kB
+HIP102766-176_directory.csv
+2 minutes ago459 B
+HIP102766-176_stats_0.csv
+2 minutes ago101 B
+HIP103039-254.csv
+2 minutes ago159 kB
+HIP103039-254_directory.csv
+2 minutes ago459 B
+HIP103039-254_stats_0.csv
+2 minutes ago101 B
+HIP103039-283.csv
+2 minutes ago190 kB
+HIP103039-283_directory.csv
+2 minutes ago459 B
+HIP103039-283_stats_0.csv
+2 minutes ago101 B
+HIP103256-208.csv
+2 minutes ago56.2 kB
+HIP103256-208_directory.csv
+2 minutes ago459 B
+HIP103256-208_stats_0.csv
+2 minutes ago100 B
+HIP103388-209.csv
+2 minutes ago34.9 kB
+HIP103388-209_directory.csv
+2 minutes ago459 B
+HIP103388-209_stats_0.csv
+2 minutes ago100 B
+HIP103441-210.csv
+2 minutes ago60.1 kB
+HIP103441-210_directory.csv
+2 minutes ago459 B
+HIP103441-210_stats_0.csv
+2 minutes ago101 B
+HIP104019-255.csv
+2 minutes ago77.6 kB
+HIP104019-255_directory.csv
+2 minutes ago459 B
+HIP104019-255_stats_0.csv
+2 minutes ago100 B
+HIP104019-284.csv
+2 minutes ago68.8 kB
+HIP104019-284_directory.csv
+2 minutes ago459 B
+HIP104019-284_stats_0.csv
+2 minutes ago101 B
+HIP104092-256.csv
+2 minutes ago93.1 kB
+HIP104092-256_directory.csv
+2 minutes ago459 B
+HIP104092-256_stats_0.csv
+2 minutes ago101 B
+HIP104092-285.csv
+2 minutes ago174 kB
+HIP104092-285_directory.csv
+2 minutes ago459 B
+HIP104092-285_stats_0.csv
+2 minutes ago101 B
+HIP104139-257.csv
+2 minutes ago134 kB
+HIP104139-257_directory.csv
+2 minutes ago459 B
+HIP104139-257_stats_0.csv
+2 minutes ago101 B
+HIP104139-286.csv
+2 minutes ago166 kB
+HIP104139-286_directory.csv
+2 minutes ago459 B
+HIP104139-286_stats_0.csv
+2 minutes ago100 B
 HIP10416-71.csv
-7 minutes ago112 kB
+2 minutes ago228 kB
 HIP10416-71_directory.csv
-7 minutes ago450 B
+2 minutes ago450 B
 HIP10416-71_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
+HIP105038-355.csv
+2 minutes ago56.9 kB
+HIP105038-355_directory.csv
+2 minutes ago459 B
+HIP105038-355_stats_0.csv
+2 minutes ago99 B
+HIP105152-356.csv
+2 minutes ago53.8 kB
+HIP105152-356_directory.csv
+2 minutes ago459 B
+HIP105152-356_stats_0.csv
+2 minutes ago100 B
 HIP105668-49.csv
-7 minutes ago228 kB
+2 minutes ago457 kB
 HIP105668-49_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP105668-49_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP105860-50.csv
-7 minutes ago89.6 kB
+2 minutes ago185 kB
 HIP105860-50_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP105860-50_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP105932-326.csv
+2 minutes ago579 kB
+HIP105932-326_directory.csv
+2 minutes ago459 B
+HIP105932-326_stats_0.csv
+2 minutes ago102 B
 HIP105932-51.csv
-7 minutes ago99 kB
+2 minutes ago199 kB
 HIP105932-51_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP105932-51_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP106106-52.csv
-7 minutes ago167 kB
+2 minutes ago338 kB
 HIP106106-52_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP106106-52_stats_0.csv
-7 minutes ago99 B
+2 minutes ago101 B
+HIP106231-327.csv
+2 minutes ago73.7 kB
+HIP106231-327_directory.csv
+2 minutes ago459 B
+HIP106231-327_stats_0.csv
+2 minutes ago101 B
+HIP10644-138.csv
+2 minutes ago260 kB
+HIP10644-138_directory.csv
+2 minutes ago453 B
+HIP10644-138_stats_0.csv
+2 minutes ago100 B
+HIP10670-139.csv
+2 minutes ago125 kB
+HIP10670-139_directory.csv
+2 minutes ago453 B
+HIP10670-139_stats_0.csv
+2 minutes ago100 B
+HIP106811-328.csv
+2 minutes ago65 kB
+HIP106811-328_directory.csv
+2 minutes ago459 B
+HIP106811-328_stats_0.csv
+2 minutes ago101 B
+HIP10723-222.csv
+2 minutes ago181 kB
+HIP10723-222_directory.csv
+2 minutes ago453 B
+HIP10723-222_stats_0.csv
+2 minutes ago101 B
+HIP109388-259.csv
+2 minutes ago105 kB
+HIP109388-259_directory.csv
+2 minutes ago459 B
+HIP109388-259_stats_0.csv
+2 minutes ago101 B
+HIP109388-288.csv
+2 minutes ago185 kB
+HIP109388-288_directory.csv
+2 minutes ago459 B
+HIP109388-288_stats_0.csv
+2 minutes ago100 B
+HIP109427-260.csv
+2 minutes ago173 kB
+HIP109427-260_directory.csv
+2 minutes ago459 B
+HIP109427-260_stats_0.csv
+2 minutes ago101 B
+HIP109427-289.csv
+2 minutes ago224 kB
+HIP109427-289_directory.csv
+2 minutes ago459 B
+HIP109427-289_stats_0.csv
+2 minutes ago100 B
+HIP109555-290.csv
+2 minutes ago166 kB
+HIP109555-290_directory.csv
+2 minutes ago459 B
+HIP109555-290_stats_0.csv
+2 minutes ago101 B
 HIP11000-72.csv
-7 minutes ago106 kB
+2 minutes ago219 kB
 HIP11000-72_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP11000-72_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP11029-73.csv
-7 minutes ago157 kB
+2 minutes ago316 kB
 HIP11029-73_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP11029-73_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
+HIP111169-114.csv
+2 minutes ago151 kB
+HIP111169-114_directory.csv
+2 minutes ago459 B
+HIP111169-114_stats_0.csv
+2 minutes ago101 B
 HIP111170-20.csv
-7 minutes ago1.63 MB
+2 minutes ago3.28 MB
 HIP111170-20_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP111170-20_stats_0.csv
-7 minutes ago100 B
+2 minutes ago102 B
 HIP111888-21.csv
-7 minutes ago284 kB
+2 minutes ago572 kB
 HIP111888-21_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP111888-21_stats_0.csv
-7 minutes ago101 B
+2 minutes ago102 B
 HIP112190-22.csv
-7 minutes ago113 kB
+2 minutes ago236 kB
 HIP112190-22_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP112190-22_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
+HIP112245-115.csv
+2 minutes ago83.7 kB
+HIP112245-115_directory.csv
+2 minutes ago459 B
+HIP112245-115_stats_0.csv
+2 minutes ago101 B
+HIP112724-130.csv
+2 minutes ago152 kB
+HIP112724-130_directory.csv
+2 minutes ago459 B
+HIP112724-130_stats_0.csv
+2 minutes ago101 B
+HIP112909-89.csv
+2 minutes ago280 kB
+HIP112909-89_directory.csv
+2 minutes ago459 B
+HIP112909-89_stats_0.csv
+2 minutes ago101 B
+HIP112915-131.csv
+2 minutes ago183 kB
+HIP112915-131_directory.csv
+2 minutes ago459 B
+HIP112915-131_stats_0.csv
+2 minutes ago101 B
+HIP113409-90.csv
+2 minutes ago279 kB
+HIP113409-90_directory.csv
+2 minutes ago459 B
+HIP113409-90_stats_0.csv
+2 minutes ago101 B
+HIP113421-91.csv
+2 minutes ago398 kB
+HIP113421-91_directory.csv
+2 minutes ago459 B
+HIP113421-91_stats_0.csv
+2 minutes ago100 B
+HIP113718-92.csv
+2 minutes ago358 kB
+HIP113718-92_directory.csv
+2 minutes ago459 B
+HIP113718-92_stats_0.csv
+2 minutes ago100 B
+HIP114233-162.csv
+2 minutes ago232 kB
+HIP114233-162_directory.csv
+2 minutes ago459 B
+HIP114233-162_stats_0.csv
+2 minutes ago101 B
+HIP114456-132.csv
+2 minutes ago199 kB
+HIP114456-132_directory.csv
+2 minutes ago459 B
+HIP114456-132_stats_0.csv
+2 minutes ago101 B
+HIP114570-133.csv
+2 minutes ago229 kB
+HIP114570-133_directory.csv
+2 minutes ago459 B
+HIP114570-133_stats_0.csv
+2 minutes ago100 B
+HIP114886-163.csv
+2 minutes ago545 kB
+HIP114886-163_directory.csv
+2 minutes ago459 B
+HIP114886-163_stats_0.csv
+2 minutes ago100 B
+HIP115142-159.csv
+2 minutes ago324 kB
+HIP115142-159_directory.csv
+2 minutes ago459 B
+HIP115142-159_stats_0.csv
+2 minutes ago100 B
+HIP115445-160.csv
+2 minutes ago356 kB
+HIP115445-160_directory.csv
+2 minutes ago459 B
+HIP115445-160_stats_0.csv
+2 minutes ago100 B
 HIP11569-3.csv
-7 minutes ago43.1 kB
+2 minutes ago84.3 kB
 HIP11569-3_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP11569-3_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
+HIP115738-161.csv
+2 minutes ago359 kB
+HIP115738-161_directory.csv
+2 minutes ago459 B
+HIP115738-161_stats_0.csv
+2 minutes ago101 B
 HIP116106-27.csv
-7 minutes ago136 kB
+2 minutes ago278 kB
 HIP116106-27_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP116106-27_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP116384-28.csv
-7 minutes ago83.1 kB
+2 minutes ago170 kB
 HIP116384-28_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP116384-28_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP116495-29.csv
-7 minutes ago106 kB
+2 minutes ago209 kB
 HIP116495-29_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP116495-29_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP116758-30.csv
-7 minutes ago95.2 kB
+2 minutes ago195 kB
 HIP116758-30_directory.csv
-7 minutes ago459 B
+2 minutes ago459 B
 HIP116758-30_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP120005-189.csv
+2 minutes ago112 kB
+HIP120005-189_directory.csv
+2 minutes ago456 B
+HIP120005-189_stats_0.csv
+2 minutes ago101 B
 HIP12158-74.csv
-7 minutes ago621 kB
+2 minutes ago1.26 MB
 HIP12158-74_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP12158-74_stats_0.csv
-7 minutes ago102 B
+2 minutes ago102 B
+HIP1242-246.csv
+2 minutes ago233 kB
+HIP1242-246_directory.csv
+2 minutes ago447 B
+HIP1242-246_stats_0.csv
+2 minutes ago100 B
+HIP1242-274.csv
+2 minutes ago137 kB
+HIP1242-274_directory.csv
+2 minutes ago447 B
+HIP1242-274_stats_0.csv
+2 minutes ago101 B
+HIP12493-165.csv
+2 minutes ago115 kB
+HIP12493-165_directory.csv
+2 minutes ago453 B
+HIP12493-165_stats_0.csv
+2 minutes ago101 B
+HIP12530-166.csv
+2 minutes ago110 kB
+HIP12530-166_directory.csv
+2 minutes ago453 B
+HIP12530-166_stats_0.csv
+2 minutes ago101 B
+HIP13081-167.csv
+2 minutes ago177 kB
+HIP13081-167_directory.csv
+2 minutes ago453 B
+HIP13081-167_stats_0.csv
+2 minutes ago101 B
+HIP13402-140.csv
+2 minutes ago256 kB
+HIP13402-140_directory.csv
+2 minutes ago453 B
+HIP13402-140_stats_0.csv
+2 minutes ago100 B
+HIP13402-164.csv
+2 minutes ago189 kB
+HIP13402-164_directory.csv
+2 minutes ago453 B
+HIP13402-164_stats_0.csv
+2 minutes ago101 B
+HIP13642-199.csv
+2 minutes ago227 kB
+HIP13642-199_directory.csv
+2 minutes ago453 B
+HIP13642-199_stats_0.csv
+2 minutes ago101 B
+HIP13665-119.csv
+2 minutes ago93.4 kB
+HIP13665-119_directory.csv
+2 minutes ago453 B
+HIP13665-119_stats_0.csv
+2 minutes ago101 B
+HIP13834-200.csv
+2 minutes ago146 kB
+HIP13834-200_directory.csv
+2 minutes ago453 B
+HIP13834-200_stats_0.csv
+2 minutes ago101 B
+HIP14150-201.csv
+2 minutes ago81 kB
+HIP14150-201_directory.csv
+2 minutes ago453 B
+HIP14150-201_stats_0.csv
+2 minutes ago100 B
 HIP14293-63.csv
-7 minutes ago163 kB
+2 minutes ago327 kB
 HIP14293-63_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP14293-63_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP1444-56.csv
-7 minutes ago97.2 kB
+2 minutes ago201 kB
 HIP1444-56_directory.csv
-7 minutes ago444 B
+2 minutes ago444 B
 HIP1444-56_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP14632-120.csv
+2 minutes ago107 kB
+HIP14632-120_directory.csv
+2 minutes ago453 B
+HIP14632-120_stats_0.csv
+2 minutes ago101 B
+HIP1473-194.csv
+2 minutes ago153 kB
+HIP1473-194_directory.csv
+2 minutes ago447 B
+HIP1473-194_stats_0.csv
+2 minutes ago100 B
+HIP14862-121.csv
+2 minutes ago53.9 kB
+HIP14862-121_directory.csv
+2 minutes ago453 B
+HIP14862-121_stats_0.csv
+2 minutes ago100 B
 HIP1499-57.csv
-7 minutes ago85.3 kB
+2 minutes ago174 kB
 HIP1499-57_directory.csv
-7 minutes ago444 B
+2 minutes ago444 B
 HIP1499-57_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP15099-227.csv
+2 minutes ago361 kB
+HIP15099-227_directory.csv
+2 minutes ago453 B
+HIP15099-227_stats_0.csv
+2 minutes ago100 B
 HIP1532-58.csv
-7 minutes ago83.2 kB
+2 minutes ago169 kB
 HIP1532-58_directory.csv
-7 minutes ago444 B
+2 minutes ago444 B
 HIP1532-58_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
+HIP15457-228.csv
+2 minutes ago214 kB
+HIP15457-228_directory.csv
+2 minutes ago453 B
+HIP15457-228_stats_0.csv
+2 minutes ago100 B
+HIP16852-229.csv
+2 minutes ago231 kB
+HIP16852-229_directory.csv
+2 minutes ago453 B
+HIP16852-229_stats_0.csv
+2 minutes ago101 B
+HIP1692-195.csv
+2 minutes ago170 kB
+HIP1692-195_directory.csv
+2 minutes ago447 B
+HIP1692-195_stats_0.csv
+2 minutes ago100 B
 HIP17027-64.csv
-7 minutes ago114 kB
+2 minutes ago225 kB
 HIP17027-64_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP17027-64_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP171-196.csv
+2 minutes ago491 kB
+HIP171-196_directory.csv
+2 minutes ago443 B
+HIP171-196_stats_0.csv
+2 minutes ago101 B
 HIP17147-65.csv
-7 minutes ago146 kB
+2 minutes ago293 kB
 HIP17147-65_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP17147-65_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP17378-66.csv
-7 minutes ago84.8 kB
+2 minutes ago173 kB
 HIP17378-66_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP17378-66_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP17414-315.csv
+2 minutes ago207 kB
+HIP17414-315_directory.csv
+2 minutes ago453 B
+HIP17414-315_stats_0.csv
+2 minutes ago101 B
+HIP17414-348.csv
+2 minutes ago121 kB
+HIP17414-348_directory.csv
+2 minutes ago453 B
+HIP17414-348_stats_0.csv
+2 minutes ago101 B
+HIP17420-316.csv
+2 minutes ago337 kB
+HIP17420-316_directory.csv
+2 minutes ago453 B
+HIP17420-316_stats_0.csv
+2 minutes ago101 B
+HIP17420-349.csv
+2 minutes ago210 kB
+HIP17420-349_directory.csv
+2 minutes ago453 B
+HIP17420-349_stats_0.csv
+2 minutes ago101 B
+HIP17496-317.csv
+2 minutes ago204 kB
+HIP17496-317_directory.csv
+2 minutes ago453 B
+HIP17496-317_stats_0.csv
+2 minutes ago100 B
+HIP17496-350.csv
+2 minutes ago287 kB
+HIP17496-350_directory.csv
+2 minutes ago453 B
+HIP17496-350_stats_0.csv
+2 minutes ago101 B
+HIP17609-351.csv
+2 minutes ago102 kB
+HIP17609-351_directory.csv
+2 minutes ago453 B
+HIP17609-351_stats_0.csv
+2 minutes ago101 B
+HIP1803-197.csv
+2 minutes ago237 kB
+HIP1803-197_directory.csv
+2 minutes ago447 B
+HIP1803-197_stats_0.csv
+2 minutes ago101 B
+HIP18267-352.csv
+2 minutes ago75.1 kB
+HIP18267-352_directory.csv
+2 minutes ago453 B
+HIP18267-352_stats_0.csv
+2 minutes ago101 B
+HIP18280-152.csv
+2 minutes ago360 kB
+HIP18280-152_directory.csv
+2 minutes ago453 B
+HIP18280-152_stats_0.csv
+2 minutes ago100 B
+HIP19255-353.csv
+2 minutes ago156 kB
+HIP19255-353_directory.csv
+2 minutes ago453 B
+HIP19255-353_stats_0.csv
+2 minutes ago101 B
+HIP194-198.csv
+2 minutes ago225 kB
+HIP194-198_directory.csv
+2 minutes ago441 B
+HIP194-198_stats_0.csv
+2 minutes ago101 B
+HIP2-247.csv
+2 minutes ago146 kB
+HIP2-247_directory.csv
+2 minutes ago436 B
+HIP2-247_stats_0.csv
+2 minutes ago100 B
+HIP2-275.csv
+2 minutes ago171 kB
+HIP2-275_directory.csv
+2 minutes ago436 B
+HIP2-275_stats_0.csv
+2 minutes ago101 B
+HIP21556-141.csv
+2 minutes ago188 kB
+HIP21556-141_directory.csv
+2 minutes ago453 B
+HIP21556-141_stats_0.csv
+2 minutes ago101 B
+HIP21556-153.csv
+2 minutes ago377 kB
+HIP21556-153_directory.csv
+2 minutes ago453 B
+HIP21556-153_stats_0.csv
+2 minutes ago100 B
+HIP22288-154.csv
+2 minutes ago176 kB
+HIP22288-154_directory.csv
+2 minutes ago453 B
+HIP22288-154_stats_0.csv
+2 minutes ago101 B
+HIP23147-97.csv
+2 minutes ago202 kB
+HIP23147-97_directory.csv
+2 minutes ago453 B
+HIP23147-97_stats_0.csv
+2 minutes ago101 B
+HIP23783-98.csv
+2 minutes ago674 kB
+HIP23783-98_directory.csv
+2 minutes ago453 B
+HIP23783-98_stats_0.csv
+2 minutes ago102 B
+HIP24813-278.csv
+2 minutes ago234 kB
+HIP24813-278_directory.csv
+2 minutes ago453 B
+HIP24813-278_stats_0.csv
+2 minutes ago99 B
 HIP25110-79.csv
-7 minutes ago69 kB
+2 minutes ago144 kB
 HIP25110-79_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP25110-79_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP25110-99.csv
+2 minutes ago201 kB
+HIP25110-99_directory.csv
+2 minutes ago453 B
+HIP25110-99_stats_0.csv
+2 minutes ago100 B
+HIP26505-100.csv
+2 minutes ago164 kB
+HIP26505-100_directory.csv
+2 minutes ago453 B
+HIP26505-100_stats_0.csv
+2 minutes ago100 B
 HIP26505-80.csv
-7 minutes ago53.3 kB
+2 minutes ago112 kB
 HIP26505-80_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP26505-80_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP26779-81.csv
-7 minutes ago271 kB
+2 minutes ago547 kB
 HIP26779-81_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP26779-81_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP26801-82.csv
-7 minutes ago76.9 kB
+2 minutes ago154 kB
 HIP26801-82_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP26801-82_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP27188-83.csv
+2 minutes ago379 kB
+HIP27188-83_directory.csv
+2 minutes ago454 B
+HIP27188-83_stats_0.csv
+2 minutes ago100 B
+HIP27435-155.csv
+2 minutes ago195 kB
+HIP27435-155_directory.csv
+2 minutes ago453 B
+HIP27435-155_stats_0.csv
+2 minutes ago100 B
+HIP2762-223.csv
+2 minutes ago143 kB
+HIP2762-223_directory.csv
+2 minutes ago447 B
+HIP2762-223_stats_0.csv
+2 minutes ago101 B
+HIP2762-248.csv
+2 minutes ago309 kB
+HIP2762-248_directory.csv
+2 minutes ago447 B
+HIP2762-248_stats_0.csv
+2 minutes ago100 B
+HIP2762-276.csv
+2 minutes ago120 kB
+HIP2762-276_directory.csv
+2 minutes ago447 B
+HIP2762-276_stats_0.csv
+2 minutes ago101 B
+HIP28368-249.csv
+2 minutes ago81.5 kB
+HIP28368-249_directory.csv
+2 minutes ago453 B
+HIP28368-249_stats_0.csv
+2 minutes ago101 B
+HIP28368-279.csv
+2 minutes ago227 kB
+HIP28368-279_directory.csv
+2 minutes ago453 B
+HIP28368-279_stats_0.csv
+2 minutes ago101 B
 HIP29067-35.csv
-7 minutes ago107 kB
+2 minutes ago212 kB
 HIP29067-35_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP29067-35_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP29277-36.csv
-7 minutes ago73.3 kB
+2 minutes ago145 kB
 HIP29277-36_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP29277-36_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP29548-37.csv
-7 minutes ago80.5 kB
+2 minutes ago164 kB
 HIP29548-37_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP29548-37_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP29761-38.csv
-7 minutes ago73 kB
+2 minutes ago150 kB
 HIP29761-38_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP29761-38_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP30060-39.csv
-7 minutes ago82.2 kB
+2 minutes ago163 kB
 HIP30060-39_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP30060-39_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP30112-13.csv
-7 minutes ago867 kB
+2 minutes ago1.75 MB
 HIP30112-13_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP30112-13_stats_0.csv
-7 minutes ago102 B
+2 minutes ago102 B
+HIP3092-224.csv
+2 minutes ago162 kB
+HIP3092-224_directory.csv
+2 minutes ago447 B
+HIP3092-224_stats_0.csv
+2 minutes ago101 B
+HIP3092-277.csv
+2 minutes ago62 kB
+HIP3092-277_directory.csv
+2 minutes ago447 B
+HIP3092-277_stats_0.csv
+2 minutes ago100 B
+HIP3093-225.csv
+2 minutes ago130 kB
+HIP3093-225_directory.csv
+2 minutes ago447 B
+HIP3093-225_stats_0.csv
+2 minutes ago101 B
+HIP31703-213.csv
+2 minutes ago252 kB
+HIP31703-213_directory.csv
+2 minutes ago453 B
+HIP31703-213_stats_0.csv
+2 minutes ago101 B
+HIP31703-234.csv
+2 minutes ago217 kB
+HIP31703-234_directory.csv
+2 minutes ago453 B
+HIP31703-234_stats_0.csv
+2 minutes ago100 B
+HIP31703-250.csv
+2 minutes ago91.5 kB
+HIP31703-250_directory.csv
+2 minutes ago453 B
+HIP31703-250_stats_0.csv
+2 minutes ago100 B
+HIP31703-280.csv
+2 minutes ago262 kB
+HIP31703-280_directory.csv
+2 minutes ago453 B
+HIP31703-280_stats_0.csv
+2 minutes ago101 B
+HIP32439-185.csv
+2 minutes ago391 kB
+HIP32439-185_directory.csv
+2 minutes ago453 B
+HIP32439-185_stats_0.csv
+2 minutes ago101 B
+HIP32480-186.csv
+2 minutes ago254 kB
+HIP32480-186_directory.csv
+2 minutes ago453 B
+HIP32480-186_stats_0.csv
+2 minutes ago101 B
+HIP33142-187.csv
+2 minutes ago265 kB
+HIP33142-187_directory.csv
+2 minutes ago453 B
+HIP33142-187_stats_0.csv
+2 minutes ago101 B
+HIP33373-354.csv
+2 minutes ago90.2 kB
+HIP33373-354_directory.csv
+2 minutes ago453 B
+HIP33373-354_stats_0.csv
+2 minutes ago100 B
+HIP33537-105.csv
+2 minutes ago183 kB
+HIP33537-105_directory.csv
+2 minutes ago453 B
+HIP33537-105_stats_0.csv
+2 minutes ago101 B
+HIP33852-188.csv
+2 minutes ago239 kB
+HIP33852-188_directory.csv
+2 minutes ago453 B
+HIP33852-188_stats_0.csv
+2 minutes ago101 B
+HIP34115-214.csv
+2 minutes ago199 kB
+HIP34115-214_directory.csv
+2 minutes ago453 B
+HIP34115-214_stats_0.csv
+2 minutes ago101 B
+HIP34115-235.csv
+2 minutes ago127 kB
+HIP34115-235_directory.csv
+2 minutes ago453 B
+HIP34115-235_stats_0.csv
+2 minutes ago101 B
+HIP34115-251.csv
+2 minutes ago112 kB
+HIP34115-251_directory.csv
+2 minutes ago453 B
+HIP34115-251_stats_0.csv
+2 minutes ago101 B
+HIP3418-226.csv
+2 minutes ago130 kB
+HIP3418-226_directory.csv
+2 minutes ago447 B
+HIP3418-226_stats_0.csv
+2 minutes ago101 B
+HIP3419-309.csv
+2 minutes ago214 kB
+HIP3419-309_directory.csv
+2 minutes ago447 B
+HIP3419-309_stats_0.csv
+2 minutes ago101 B
+HIP3419-347.csv
+2 minutes ago123 kB
+HIP3419-347_directory.csv
+2 minutes ago448 B
+HIP3419-347_stats_0.csv
+2 minutes ago101 B
+HIP35136-215.csv
+2 minutes ago328 kB
+HIP35136-215_directory.csv
+2 minutes ago453 B
+HIP35136-215_stats_0.csv
+2 minutes ago101 B
+HIP35136-236.csv
+2 minutes ago273 kB
+HIP35136-236_directory.csv
+2 minutes ago453 B
+HIP35136-236_stats_0.csv
+2 minutes ago100 B
+HIP3535-310.csv
+2 minutes ago181 kB
+HIP3535-310_directory.csv
+2 minutes ago447 B
+HIP3535-310_stats_0.csv
+2 minutes ago99 B
 HIP35350-18.csv
-7 minutes ago131 kB
+2 minutes ago265 kB
 HIP35350-18_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP35350-18_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP35550-19.csv
-7 minutes ago387 kB
+2 minutes ago781 kB
 HIP35550-19_directory.csv
-7 minutes ago454 B
+2 minutes ago454 B
 HIP35550-19_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP35643-216.csv
+2 minutes ago569 kB
+HIP35643-216_directory.csv
+2 minutes ago453 B
+HIP35643-216_stats_0.csv
+2 minutes ago102 B
+HIP35643-237.csv
+2 minutes ago225 kB
+HIP35643-237_directory.csv
+2 minutes ago453 B
+HIP35643-237_stats_0.csv
+2 minutes ago101 B
+HIP35643-268.csv
+2 minutes ago211 kB
+HIP35643-268_directory.csv
+2 minutes ago453 B
+HIP35643-268_stats_0.csv
+2 minutes ago101 B
+HIP35821-238.csv
+2 minutes ago481 kB
+HIP35821-238_directory.csv
+2 minutes ago453 B
+HIP35821-238_stats_0.csv
+2 minutes ago100 B
+HIP35821-269.csv
+2 minutes ago130 kB
+HIP35821-269_directory.csv
+2 minutes ago453 B
+HIP35821-269_stats_0.csv
+2 minutes ago101 B
+HIP36046-106.csv
+2 minutes ago99.2 kB
+HIP36046-106_directory.csv
+2 minutes ago453 B
+HIP36046-106_stats_0.csv
+2 minutes ago100 B
+HIP36152-107.csv
+2 minutes ago114 kB
+HIP36152-107_directory.csv
+2 minutes ago453 B
+HIP36152-107_stats_0.csv
+2 minutes ago100 B
+HIP36357-108.csv
+2 minutes ago68.5 kB
+HIP36357-108_directory.csv
+2 minutes ago453 B
+HIP36357-108_stats_0.csv
+2 minutes ago101 B
+HIP36627-157.csv
+2 minutes ago178 kB
+HIP36627-157_directory.csv
+2 minutes ago453 B
+HIP36627-157_stats_0.csv
+2 minutes ago100 B
+HIP36704-158.csv
+2 minutes ago220 kB
+HIP36704-158_directory.csv
+2 minutes ago453 B
+HIP36704-158_stats_0.csv
+2 minutes ago101 B
+HIP3765-311.csv
+2 minutes ago196 kB
+HIP3765-311_directory.csv
+2 minutes ago447 B
+HIP3765-311_stats_0.csv
+2 minutes ago100 B
+HIP38325-217.csv
+2 minutes ago159 kB
+HIP38325-217_directory.csv
+2 minutes ago453 B
+HIP38325-217_stats_0.csv
+2 minutes ago101 B
+HIP38325-239.csv
+2 minutes ago266 kB
+HIP38325-239_directory.csv
+2 minutes ago453 B
+HIP38325-239_stats_0.csv
+2 minutes ago101 B
+HIP38325-270.csv
+2 minutes ago82.9 kB
+HIP38325-270_directory.csv
+2 minutes ago453 B
+HIP38325-270_stats_0.csv
+2 minutes ago101 B
+HIP38784-271.csv
+2 minutes ago254 kB
+HIP38784-271_directory.csv
+2 minutes ago453 B
+HIP38784-271_stats_0.csv
+2 minutes ago101 B
+HIP38956-339.csv
+2 minutes ago73.7 kB
+HIP38956-339_directory.csv
+2 minutes ago453 B
+HIP38956-339_stats_0.csv
+2 minutes ago101 B
+HIP3909-312.csv
+2 minutes ago219 kB
+HIP3909-312_directory.csv
+2 minutes ago447 B
+HIP3909-312_stats_0.csv
+2 minutes ago101 B
+HIP39494-300.csv
+2 minutes ago257 kB
+HIP39494-300_directory.csv
+2 minutes ago453 B
+HIP39494-300_stats_0.csv
+2 minutes ago100 B
+HIP39494-340.csv
+2 minutes ago65.7 kB
+HIP39494-340_directory.csv
+2 minutes ago453 B
+HIP39494-340_stats_0.csv
+2 minutes ago101 B
+HIP3979-313.csv
+2 minutes ago965 kB
+HIP3979-313_directory.csv
+2 minutes ago447 B
+HIP3979-313_stats_0.csv
+2 minutes ago101 B
+HIP3998-314.csv
+2 minutes ago224 kB
+HIP3998-314_directory.csv
+2 minutes ago447 B
+HIP3998-314_stats_0.csv
+2 minutes ago100 B
+HIP40875-301.csv
+2 minutes ago129 kB
+HIP40875-301_directory.csv
+2 minutes ago453 B
+HIP40875-301_stats_0.csv
+2 minutes ago100 B
+HIP40875-341.csv
+2 minutes ago104 kB
+HIP40875-341_directory.csv
+2 minutes ago453 B
+HIP40875-341_stats_0.csv
+2 minutes ago101 B
+HIP41484-220.csv
+2 minutes ago164 kB
+HIP41484-220_directory.csv
+2 minutes ago453 B
+HIP41484-220_stats_0.csv
+2 minutes ago101 B
+HIP42080-302.csv
+2 minutes ago2.15 MB
+HIP42080-302_directory.csv
+2 minutes ago453 B
+HIP42080-302_stats_0.csv
+2 minutes ago102 B
+HIP42080-342.csv
+2 minutes ago146 kB
+HIP42080-342_directory.csv
+2 minutes ago453 B
+HIP42080-342_stats_0.csv
+2 minutes ago101 B
+HIP42220-303.csv
+2 minutes ago167 kB
+HIP42220-303_directory.csv
+2 minutes ago453 B
+HIP42220-303_stats_0.csv
+2 minutes ago100 B
+HIP42220-343.csv
+2 minutes ago214 kB
+HIP42220-343_directory.csv
+2 minutes ago453 B
+HIP42220-343_stats_0.csv
+2 minutes ago101 B
+HIP42438-304.csv
+2 minutes ago590 kB
+HIP42438-304_directory.csv
+2 minutes ago453 B
+HIP42438-304_stats_0.csv
+2 minutes ago101 B
+HIP42438-344.csv
+2 minutes ago108 kB
+HIP42438-344_directory.csv
+2 minutes ago453 B
+HIP42438-344_stats_0.csv
+2 minutes ago100 B
+HIP42940-305.csv
+2 minutes ago348 kB
+HIP42940-305_directory.csv
+2 minutes ago453 B
+HIP42940-305_stats_0.csv
+2 minutes ago101 B
+HIP44127-190.csv
+2 minutes ago120 kB
+HIP44127-190_directory.csv
+2 minutes ago453 B
+HIP44127-190_stats_0.csv
+2 minutes ago101 B
 HIP44295-23.csv
-7 minutes ago137 kB
+2 minutes ago275 kB
 HIP44295-23_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP44295-23_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP44722-24.csv
-7 minutes ago139 kB
+2 minutes ago276 kB
 HIP44722-24_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP44722-24_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP44897-45.csv
-7 minutes ago115 kB
+2 minutes ago233 kB
 HIP44897-45_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP44897-45_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP44901-191.csv
+2 minutes ago185 kB
+HIP44901-191_directory.csv
+2 minutes ago453 B
+HIP44901-191_stats_0.csv
+2 minutes ago101 B
 HIP44984-25.csv
-7 minutes ago58.8 kB
+2 minutes ago119 kB
 HIP44984-25_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP44984-25_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP45038-192.csv
+2 minutes ago77.8 kB
+HIP45038-192_directory.csv
+2 minutes ago453 B
+HIP45038-192_stats_0.csv
+2 minutes ago101 B
 HIP45170-26.csv
-7 minutes ago132 kB
+2 minutes ago266 kB
 HIP45170-26_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP45170-26_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP46580-240.csv
+2 minutes ago178 kB
+HIP46580-240_directory.csv
+2 minutes ago453 B
+HIP46580-240_stats_0.csv
+2 minutes ago101 B
+HIP46769-241.csv
+2 minutes ago226 kB
+HIP46769-241_directory.csv
+2 minutes ago453 B
+HIP46769-241_stats_0.csv
+2 minutes ago99 B
+HIP46843-143.csv
+2 minutes ago179 kB
+HIP46843-143_directory.csv
+2 minutes ago453 B
+HIP46843-143_stats_0.csv
+2 minutes ago101 B
+HIP47080-144.csv
+2 minutes ago221 kB
+HIP47080-144_directory.csv
+2 minutes ago453 B
+HIP47080-144_stats_0.csv
+2 minutes ago101 B
+HIP47201-145.csv
+2 minutes ago551 kB
+HIP47201-145_directory.csv
+2 minutes ago453 B
+HIP47201-145_stats_0.csv
+2 minutes ago100 B
+HIP47513-146.csv
+2 minutes ago189 kB
+HIP47513-146_directory.csv
+2 minutes ago453 B
+HIP47513-146_stats_0.csv
+2 minutes ago101 B
+HIP49081-242.csv
+2 minutes ago212 kB
+HIP49081-242_directory.csv
+2 minutes ago453 B
+HIP49081-242_stats_0.csv
+2 minutes ago101 B
+HIP49593-243.csv
+2 minutes ago223 kB
+HIP49593-243_directory.csv
+2 minutes ago453 B
+HIP49593-243_stats_0.csv
+2 minutes ago101 B
 HIP49699-46.csv
-7 minutes ago98.4 kB
+2 minutes ago203 kB
 HIP49699-46_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP49699-46_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP49868-117.csv
+2 minutes ago85.4 kB
+HIP49868-117_directory.csv
+2 minutes ago453 B
+HIP49868-117_stats_0.csv
+2 minutes ago101 B
+HIP51248-118.csv
+2 minutes ago277 kB
+HIP51248-118_directory.csv
+2 minutes ago453 B
+HIP51248-118_stats_0.csv
+2 minutes ago99 B
+HIP51459-126.csv
+2 minutes ago179 kB
+HIP51459-126_directory.csv
+2 minutes ago453 B
+HIP51459-126_stats_0.csv
+2 minutes ago101 B
+HIP51468-127.csv
+2 minutes ago229 kB
+HIP51468-127_directory.csv
+2 minutes ago453 B
+HIP51468-127_stats_0.csv
+2 minutes ago100 B
+HIP51502-128.csv
+2 minutes ago119 kB
+HIP51502-128_directory.csv
+2 minutes ago453 B
+HIP51502-128_stats_0.csv
+2 minutes ago100 B
+HIP51525-129.csv
+2 minutes ago604 kB
+HIP51525-129_directory.csv
+2 minutes ago453 B
+HIP51525-129_stats_0.csv
+2 minutes ago101 B
 HIP53229-47.csv
-7 minutes ago61.7 kB
+2 minutes ago127 kB
 HIP53229-47_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP53229-47_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP53580-263.csv
+2 minutes ago70.8 kB
+HIP53580-263_directory.csv
+2 minutes ago453 B
+HIP53580-263_stats_0.csv
+2 minutes ago99 B
+HIP53721-264.csv
+2 minutes ago94.5 kB
+HIP53721-264_directory.csv
+2 minutes ago453 B
+HIP53721-264_stats_0.csv
+2 minutes ago101 B
+HIP53910-265.csv
+2 minutes ago85.1 kB
+HIP53910-265_directory.csv
+2 minutes ago453 B
+HIP53910-265_stats_0.csv
+2 minutes ago101 B
 HIP53985-31.csv
-7 minutes ago134 kB
+2 minutes ago267 kB
 HIP53985-31_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP53985-31_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP54061-266.csv
+2 minutes ago53.1 kB
+HIP54061-266_directory.csv
+2 minutes ago453 B
+HIP54061-266_stats_0.csv
+2 minutes ago99 B
+HIP54426-306.csv
+2 minutes ago132 kB
+HIP54426-306_directory.csv
+2 minutes ago453 B
+HIP54426-306_stats_0.csv
+2 minutes ago100 B
+HIP54426-345.csv
+2 minutes ago89.6 kB
+HIP54426-345_directory.csv
+2 minutes ago453 B
+HIP54426-345_stats_0.csv
+2 minutes ago101 B
 HIP54677-32.csv
-7 minutes ago106 kB
+2 minutes ago220 kB
 HIP54677-32_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP54677-32_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP54745-307.csv
+2 minutes ago154 kB
+HIP54745-307_directory.csv
+2 minutes ago453 B
+HIP54745-307_stats_0.csv
+2 minutes ago101 B
+HIP54745-346.csv
+2 minutes ago70.6 kB
+HIP54745-346_directory.csv
+2 minutes ago453 B
+HIP54745-346_stats_0.csv
+2 minutes ago101 B
 HIP54872-33.csv
-7 minutes ago339 kB
+2 minutes ago687 kB
 HIP54872-33_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP54872-33_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP54906-34.csv
-7 minutes ago165 kB
+2 minutes ago332 kB
 HIP54906-34_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP54906-34_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP55848-48.csv
-7 minutes ago233 kB
+2 minutes ago471 kB
 HIP55848-48_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP55848-48_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP56238-95.csv
+2 minutes ago141 kB
+HIP56238-95_directory.csv
+2 minutes ago453 B
+HIP56238-95_stats_0.csv
+2 minutes ago101 B
+HIP56242-96.csv
+2 minutes ago146 kB
+HIP56242-96_directory.csv
+2 minutes ago453 B
+HIP56242-96_stats_0.csv
+2 minutes ago101 B
 HIP56802-54.csv
-7 minutes ago251 kB
+2 minutes ago497 kB
 HIP56802-54_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP56802-54_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
+HIP57632-291.csv
+2 minutes ago152 kB
+HIP57632-291_directory.csv
+2 minutes ago453 B
+HIP57632-291_stats_0.csv
+2 minutes ago101 B
+HIP57632-308.csv
+2 minutes ago432 kB
+HIP57632-308_directory.csv
+2 minutes ago453 B
+HIP57632-308_stats_0.csv
+2 minutes ago101 B
+HIP59406-292.csv
+2 minutes ago184 kB
+HIP59406-292_directory.csv
+2 minutes ago453 B
+HIP59406-292_stats_0.csv
+2 minutes ago101 B
+HIP59496-177.csv
+2 minutes ago337 kB
+HIP59496-177_directory.csv
+2 minutes ago453 B
+HIP59496-177_stats_0.csv
+2 minutes ago100 B
+HIP59514-178.csv
+2 minutes ago182 kB
+HIP59514-178_directory.csv
+2 minutes ago453 B
+HIP59514-178_stats_0.csv
+2 minutes ago100 B
+HIP59774-179.csv
+2 minutes ago337 kB
+HIP59774-179_directory.csv
+2 minutes ago453 B
+HIP59774-179_stats_0.csv
+2 minutes ago101 B
+HIP60303-180.csv
+2 minutes ago163 kB
+HIP60303-180_directory.csv
+2 minutes ago453 B
+HIP60303-180_stats_0.csv
+2 minutes ago101 B
+HIP60559-293.csv
+2 minutes ago236 kB
+HIP60559-293_directory.csv
+2 minutes ago453 B
+HIP60559-293_stats_0.csv
+2 minutes ago100 B
 HIP60759-55.csv
-7 minutes ago101 kB
+2 minutes ago204 kB
 HIP60759-55_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP60759-55_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
+HIP60866-294.csv
+2 minutes ago502 kB
+HIP60866-294_directory.csv
+2 minutes ago453 B
+HIP60866-294_stats_0.csv
+2 minutes ago100 B
+HIP60965-295.csv
+2 minutes ago159 kB
+HIP60965-295_directory.csv
+2 minutes ago453 B
+HIP60965-295_stats_0.csv
+2 minutes ago101 B
+HIP61053-181.csv
+2 minutes ago236 kB
+HIP61053-181_directory.csv
+2 minutes ago453 B
+HIP61053-181_stats_0.csv
+2 minutes ago101 B
+HIP61174-296.csv
+2 minutes ago293 kB
+HIP61174-296_directory.csv
+2 minutes ago453 B
+HIP61174-296_stats_0.csv
+2 minutes ago101 B
+HIP62207-147.csv
+2 minutes ago228 kB
+HIP62207-147_directory.csv
+2 minutes ago453 B
+HIP62207-147_stats_0.csv
+2 minutes ago101 B
 HIP6344-0.csv
-7 minutes ago44.9 kB
+2 minutes ago93.6 kB
 HIP6344-0_directory.csv
-7 minutes ago447 B
+2 minutes ago447 B
 HIP6344-0_stats_0.csv
-7 minutes ago99 B
+2 minutes ago100 B
+HIP65327-122.csv
+2 minutes ago262 kB
+HIP65327-122_directory.csv
+2 minutes ago453 B
+HIP65327-122_stats_0.csv
+2 minutes ago101 B
+HIP65378-123.csv
+2 minutes ago84.6 kB
+HIP65378-123_directory.csv
+2 minutes ago453 B
+HIP65378-123_stats_0.csv
+2 minutes ago101 B
+HIP65477-124.csv
+2 minutes ago118 kB
+HIP65477-124_directory.csv
+2 minutes ago453 B
+HIP65477-124_stats_0.csv
+2 minutes ago101 B
+HIP65515-125.csv
+2 minutes ago93.3 kB
+HIP65515-125_directory.csv
+2 minutes ago453 B
+HIP65515-125_stats_0.csv
+2 minutes ago101 B
+HIP66459-148.csv
+2 minutes ago156 kB
+HIP66459-148_directory.csv
+2 minutes ago453 B
+HIP66459-148_stats_0.csv
+2 minutes ago100 B
+HIP67164-329.csv
+2 minutes ago161 kB
+HIP67164-329_directory.csv
+2 minutes ago453 B
+HIP67164-329_stats_0.csv
+2 minutes ago101 B
 HIP6718-1.csv
-7 minutes ago50.2 kB
+2 minutes ago99 kB
 HIP6718-1_directory.csv
-7 minutes ago447 B
+2 minutes ago447 B
 HIP6718-1_stats_0.csv
-7 minutes ago99 B
+2 minutes ago101 B
+HIP68337-134.csv
+2 minutes ago171 kB
+HIP68337-134_directory.csv
+2 minutes ago453 B
+HIP68337-134_stats_0.csv
+2 minutes ago101 B
+HIP68337-149.csv
+2 minutes ago492 kB
+HIP68337-149_directory.csv
+2 minutes ago453 B
+HIP68337-149_stats_0.csv
+2 minutes ago101 B
+HIP68469-135.csv
+2 minutes ago256 kB
+HIP68469-135_directory.csv
+2 minutes ago453 B
+HIP68469-135_stats_0.csv
+2 minutes ago101 B
+HIP68469-150.csv
+2 minutes ago170 kB
+HIP68469-150_directory.csv
+2 minutes ago453 B
+HIP68469-150_stats_0.csv
+2 minutes ago101 B
+HIP68634-136.csv
+2 minutes ago164 kB
+HIP68634-136_directory.csv
+2 minutes ago453 B
+HIP68634-136_stats_0.csv
+2 minutes ago100 B
+HIP69357-137.csv
+2 minutes ago559 kB
+HIP69357-137_directory.csv
+2 minutes ago453 B
+HIP69357-137_stats_0.csv
+2 minutes ago102 B
 HIP71284-67.csv
-7 minutes ago62 kB
+2 minutes ago132 kB
 HIP71284-67_directory.csv
-7 minutes ago455 B
+2 minutes ago455 B
 HIP71284-67_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP71311-68.csv
-7 minutes ago80.3 kB
+2 minutes ago166 kB
 HIP71311-68_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP71311-68_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP71914-267.csv
+2 minutes ago148 kB
+HIP71914-267_directory.csv
+2 minutes ago453 B
+HIP71914-267_stats_0.csv
+2 minutes ago101 B
 HIP71957-69.csv
-7 minutes ago58.2 kB
+2 minutes ago117 kB
 HIP71957-69_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP71957-69_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP72220-70.csv
-7 minutes ago74.5 kB
+2 minutes ago155 kB
 HIP72220-70_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP72220-70_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP72312-230.csv
+2 minutes ago329 kB
+HIP72312-230_directory.csv
+2 minutes ago453 B
+HIP72312-230_stats_0.csv
+2 minutes ago100 B
+HIP72567-211.csv
+2 minutes ago99.2 kB
+HIP72567-211_directory.csv
+2 minutes ago453 B
+HIP72567-211_stats_0.csv
+2 minutes ago101 B
+HIP72603-330.csv
+2 minutes ago140 kB
+HIP72603-330_directory.csv
+2 minutes ago453 B
+HIP72603-330_stats_0.csv
+2 minutes ago99 B
+HIP72607-297.csv
+2 minutes ago293 kB
+HIP72607-297_directory.csv
+2 minutes ago453 B
+HIP72607-297_stats_0.csv
+2 minutes ago101 B
+HIP72622-331.csv
+2 minutes ago157 kB
+HIP72622-331_directory.csv
+2 minutes ago453 B
+HIP72622-331_stats_0.csv
+2 minutes ago101 B
+HIP72659-212.csv
+2 minutes ago97.7 kB
+HIP72659-212_directory.csv
+2 minutes ago453 B
+HIP72659-212_stats_0.csv
+2 minutes ago101 B
+HIP72659-231.csv
+2 minutes ago114 kB
+HIP72659-231_directory.csv
+2 minutes ago453 B
+HIP72659-231_stats_0.csv
+2 minutes ago101 B
+HIP72875-232.csv
+2 minutes ago117 kB
+HIP72875-232_directory.csv
+2 minutes ago453 B
+HIP72875-232_stats_0.csv
+2 minutes ago101 B
+HIP72944-332.csv
+2 minutes ago65 kB
+HIP72944-332_directory.csv
+2 minutes ago453 B
+HIP72944-332_stats_0.csv
+2 minutes ago101 B
+HIP73005-298.csv
+2 minutes ago123 kB
+HIP73005-298_directory.csv
+2 minutes ago453 B
+HIP73005-298_stats_0.csv
+2 minutes ago101 B
+HIP73100-182.csv
+2 minutes ago542 kB
+HIP73100-182_directory.csv
+2 minutes ago453 B
+HIP73100-182_stats_0.csv
+2 minutes ago100 B
+HIP73470-183.csv
+2 minutes ago612 kB
+HIP73470-183_directory.csv
+2 minutes ago453 B
+HIP73470-183_stats_0.csv
+2 minutes ago102 B
+HIP73695-184.csv
+2 minutes ago109 kB
+HIP73695-184_directory.csv
+2 minutes ago453 B
+HIP73695-184_stats_0.csv
+2 minutes ago101 B
 HIP74981-59.csv
-7 minutes ago57 kB
+2 minutes ago112 kB
 HIP74981-59_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP74981-59_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP75253-60.csv
-7 minutes ago74.6 kB
+2 minutes ago147 kB
 HIP75253-60_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP75253-60_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP75266-61.csv
-7 minutes ago77.8 kB
+2 minutes ago162 kB
 HIP75266-61_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP75266-61_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP75277-62.csv
-7 minutes ago82.4 kB
+2 minutes ago171 kB
 HIP75277-62_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP75277-62_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
+HIP75761-333.csv
+2 minutes ago131 kB
+HIP75761-333_directory.csv
+2 minutes ago453 B
+HIP75761-333_stats_0.csv
+2 minutes ago101 B
+HIP76219-334.csv
+2 minutes ago112 kB
+HIP76219-334_directory.csv
+2 minutes ago453 B
+HIP76219-334_stats_0.csv
+2 minutes ago101 B
+HIP76375-299.csv
+2 minutes ago229 kB
+HIP76375-299_directory.csv
+2 minutes ago453 B
+HIP76375-299_stats_0.csv
+2 minutes ago100 B
+HIP78459-101.csv
+2 minutes ago140 kB
+HIP78459-101_directory.csv
+2 minutes ago453 B
+HIP78459-101_stats_0.csv
+2 minutes ago100 B
 HIP81348-12.csv
-7 minutes ago38.8 kB
+2 minutes ago77.4 kB
 HIP81348-12_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP81348-12_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP82003-102.csv
+2 minutes ago158 kB
+HIP82003-102_directory.csv
+2 minutes ago453 B
+HIP82003-102_stats_0.csv
+2 minutes ago100 B
 HIP82003-75.csv
-7 minutes ago60.5 kB
+2 minutes ago119 kB
 HIP82003-75_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP82003-75_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP82588-103.csv
+2 minutes ago102 kB
+HIP82588-103_directory.csv
+2 minutes ago453 B
+HIP82588-103_stats_0.csv
+2 minutes ago100 B
 HIP82588-76.csv
-7 minutes ago62 kB
+2 minutes ago126 kB
 HIP82588-76_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP82588-76_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP82817-77.csv
-7 minutes ago191 kB
+2 minutes ago389 kB
 HIP82817-77_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP82817-77_stats_0.csv
-7 minutes ago101 B
+2 minutes ago100 B
 HIP83043-10.csv
-7 minutes ago35.8 kB
+2 minutes ago70.5 kB
 HIP83043-10_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP83043-10_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
+HIP84521-104.csv
+2 minutes ago933 kB
+HIP84521-104_directory.csv
+2 minutes ago453 B
+HIP84521-104_stats_0.csv
+2 minutes ago101 B
 HIP84521-78.csv
-7 minutes ago55.4 kB
+2 minutes ago116 kB
 HIP84521-78_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP84521-78_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP85042-4.csv
-7 minutes ago46.5 kB
+2 minutes ago95.4 kB
 HIP85042-4_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP85042-4_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP85157-5.csv
-7 minutes ago49 kB
+2 minutes ago100 kB
 HIP85157-5_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP85157-5_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP85295-11.csv
-7 minutes ago86.8 kB
+2 minutes ago170 kB
 HIP85295-11_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP85295-11_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP85295-6.csv
-7 minutes ago182 kB
+2 minutes ago373 kB
 HIP85295-6_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP85295-6_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
 HIP85365-8.csv
-7 minutes ago82.6 kB
+2 minutes ago163 kB
 HIP85365-8_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP85365-8_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP85582-7.csv
-7 minutes ago37.8 kB
+2 minutes ago79.6 kB
 HIP85582-7_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP85582-7_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
+HIP86623-170.csv
+2 minutes ago98.5 kB
+HIP86623-170_directory.csv
+2 minutes ago453 B
+HIP86623-170_stats_0.csv
+2 minutes ago101 B
+HIP86722-171.csv
+2 minutes ago100 kB
+HIP86722-171_directory.csv
+2 minutes ago453 B
+HIP86722-171_stats_0.csv
+2 minutes ago100 B
 HIP86742-9.csv
-7 minutes ago32.1 kB
+2 minutes ago64.1 kB
 HIP86742-9_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP86742-9_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP88622-40.csv
-7 minutes ago48.2 kB
+2 minutes ago99.3 kB
 HIP88622-40_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP88622-40_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP8867-2.csv
-7 minutes ago40.2 kB
+2 minutes ago83.1 kB
 HIP8867-2_directory.csv
-7 minutes ago447 B
+2 minutes ago447 B
 HIP8867-2_stats_0.csv
-7 minutes ago100 B
+2 minutes ago101 B
 HIP88684-41.csv
-7 minutes ago101 kB
+2 minutes ago201 kB
 HIP88684-41_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP88684-41_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
+HIP88745-172.csv
+2 minutes ago125 kB
+HIP88745-172_directory.csv
+2 minutes ago453 B
+HIP88745-172_stats_0.csv
+2 minutes ago101 B
 HIP89825-42.csv
-7 minutes ago71.7 kB
+2 minutes ago149 kB
 HIP89825-42_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP89825-42_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
 HIP90626-43.csv
-7 minutes ago97.8 kB
+2 minutes ago198 kB
 HIP90626-43_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP90626-43_stats_0.csv
-7 minutes ago100 B
+2 minutes ago99 B
 HIP90656-44.csv
-7 minutes ago75.6 kB
+2 minutes ago154 kB
 HIP90656-44_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP90656-44_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
+HIP91217-173.csv
+2 minutes ago132 kB
+HIP91217-173_directory.csv
+2 minutes ago453 B
+HIP91217-173_stats_0.csv
+2 minutes ago101 B
+HIP91237-202.csv
+2 minutes ago62.8 kB
+HIP91237-202_directory.csv
+2 minutes ago453 B
+HIP91237-202_stats_0.csv
+2 minutes ago100 B
+HIP91608-203.csv
+2 minutes ago102 kB
+HIP91608-203_directory.csv
+2 minutes ago453 B
+HIP91608-203_stats_0.csv
+2 minutes ago101 B
+HIP91699-204.csv
+2 minutes ago59.2 kB
+HIP91699-204_directory.csv
+2 minutes ago453 B
+HIP91699-204_stats_0.csv
+2 minutes ago100 B
+HIP91971-205.csv
+2 minutes ago51.7 kB
+HIP91971-205_directory.csv
+2 minutes ago453 B
+HIP91971-205_stats_0.csv
+2 minutes ago99 B
+HIP91973-206.csv
+2 minutes ago58.6 kB
+HIP91973-206_directory.csv
+2 minutes ago453 B
+HIP91973-206_stats_0.csv
+2 minutes ago101 B
+HIP92043-207.csv
+2 minutes ago53.4 kB
+HIP92043-207_directory.csv
+2 minutes ago453 B
+HIP92043-207_stats_0.csv
+2 minutes ago100 B
+HIP92161-233.csv
+2 minutes ago103 kB
+HIP92161-233_directory.csv
+2 minutes ago453 B
+HIP92161-233_stats_0.csv
+2 minutes ago101 B
 HIP93917-17.csv
-7 minutes ago34.4 kB
+2 minutes ago69.8 kB
 HIP93917-17_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP93917-17_stats_0.csv
-7 minutes ago100 B
+2 minutes ago100 B
 HIP98192-16.csv
-7 minutes ago42.7 kB
+2 minutes ago87 kB
 HIP98192-16_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP98192-16_stats_0.csv
-7 minutes ago99 B
+2 minutes ago100 B
 HIP99572-15.csv
-7 minutes ago59.2 kB
+2 minutes ago120 kB
 HIP99572-15_directory.csv
-7 minutes ago453 B
+2 minutes ago453 B
 HIP99572-15_stats_0.csv
-7 minutes ago101 B
+2 minutes ago101 B
